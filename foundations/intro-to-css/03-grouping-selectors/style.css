@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.one, .two {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.one {
+    background-color: #000;
+    color: #FFFF;
+}
+
+.two {
+    background-color: #ecf001;
+    color: #000;
+}
